@@ -5,7 +5,7 @@
             "name": "Launch",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/helloNode.js",
+            "program": "${workspaceRoot}/node2.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
